@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="PNG" always-add-relationships="true" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <interface id="1" language="java" name="com.itbank.finalmvc.memberInter" project="springFinalProject333" 
+    file="/springFinalProject333/src/main/java/com/itbank/finalmvc/memberInter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="143" x="953" y="676"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="2" language="java" name="com.itbank.finalmvc.BbsDTO" project="springFinalProject333" 
+    file="/springFinalProject333/src/main/java/com/itbank/finalmvc/BbsDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="137" x="582" y="676"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.itbank.finalmvc.ReplyDAO" project="springFinalProject333" 
+    file="/springFinalProject333/src/main/java/com/itbank/finalmvc/ReplyDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="134" x="769" y="483"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.itbank.finalmvc.memberDTO" project="springFinalProject333" 
+    file="/springFinalProject333/src/main/java/com/itbank/finalmvc/memberDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="127" x="1117" y="1013"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.itbank.finalmvc.ProductDAO" project="springFinalProject333" 
+    file="/springFinalProject333/src/main/java/com/itbank/finalmvc/ProductDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="430" y="559"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="6" language="java" name="com.itbank.finalmvc.BbsInter" project="springFinalProject333" 
+    file="/springFinalProject333/src/main/java/com/itbank/finalmvc/BbsInter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="147" x="582" y="483"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="7" language="java" name="com.itbank.finalmvc.memberDAO" project="springFinalProject333" 
+    file="/springFinalProject333/src/main/java/com/itbank/finalmvc/memberDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="143" x="1117" y="483"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="8" language="java" name="com.itbank.finalmvc.ProductInter" project="springFinalProject333" 
+    file="/springFinalProject333/src/main/java/com/itbank/finalmvc/ProductInter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="182" x="339" y="676"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="9" language="java" name="com.itbank.finalmvc.ProductDTO" project="springFinalProject333" 
+    file="/springFinalProject333/src/main/java/com/itbank/finalmvc/ProductDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="137" x="542" y="1013"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.itbank.finalmvc.ReplyDTO" project="springFinalProject333" 
+    file="/springFinalProject333/src/main/java/com/itbank/finalmvc/ReplyDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="137" x="776" y="676"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="11" language="java" name="com.itbank.finalmvc.ReplyInter" project="springFinalProject333" 
+    file="/springFinalProject333/src/main/java/com/itbank/finalmvc/ReplyInter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="134" x="943" y="483"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <dependency id="12">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="13">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="14">    
+    <bendpoint x="1126" y="676"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <realization id="15">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="8"/>  
+  </realization>  
+  <realization id="16">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <dependency id="17">    
+    <bendpoint x="551" y="676"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="18">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="19">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="20">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
